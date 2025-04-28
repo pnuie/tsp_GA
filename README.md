@@ -15,6 +15,7 @@ The figures below illustrate how the Genetic Algorithm progressively improves th
 ![image](https://github.com/user-attachments/assets/f60024b3-3b9e-428f-986a-7b1489ea6dc5)
 ![image](https://github.com/user-attachments/assets/1e6fc8df-c306-46b0-b183-0e3a17ea8792)
 ![image](https://github.com/user-attachments/assets/3e36567b-3a2c-4471-a319-12d4495fe611)
+<br>
 The performance of the Genetic Algorithm (GA) is highly sensitive to the choice of hyperparameters. In particular, the mutation rate, population size, and others play critical roles in balancing exploration and exploitation
 ## Source
 https://binaryterms.com/genetic-algorithm-in-data-mining.html
