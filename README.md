@@ -11,6 +11,7 @@ GA is widely used for solving complex optimization problems where traditional me
 <br>
 
 The figures below illustrate how the Genetic Algorithm progressively improves the tour and reduces the total travel distance over generations.
+
 ![image](https://github.com/user-attachments/assets/8067c83d-034a-4bb4-868b-7c00c6f50a04)
 ![image](https://github.com/user-attachments/assets/f60024b3-3b9e-428f-986a-7b1489ea6dc5)
 ![image](https://github.com/user-attachments/assets/1e6fc8df-c306-46b0-b183-0e3a17ea8792)
