@@ -6,6 +6,7 @@ In addition to the evolutionary approach, this project aims to extend into machi
 # About Genetic Algorithm
 Genetic Algorithm (GA) is a population-based metaheuristic inspired by the process of natural selection. It iteratively evolves a set of candidate solutions toward better solutions by applying genetic operators such as selection, crossover, and mutation. In each generation, individuals with higher fitness are more likely to contribute their genes to the next generation, promoting the exploration and exploitation of the solution space.
 GA is widely used for solving complex optimization problems where traditional methods are inefficient or inapplicable, such as the Traveling Salesman Problem (TSP).
+//
 ![image](https://github.com/user-attachments/assets/2393db8d-7984-41eb-ae61-322e97e476f7)
 (https://binaryterms.com/genetic-algorithm-in-data-mining.html)
 
