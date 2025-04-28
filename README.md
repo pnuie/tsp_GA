@@ -17,5 +17,10 @@ The figures below illustrate how the Genetic Algorithm progressively improves th
 ![image](https://github.com/user-attachments/assets/3e36567b-3a2c-4471-a319-12d4495fe611)
 <br>
 The performance of the Genetic Algorithm (GA) is highly sensitive to the choice of hyperparameters. In particular, the mutation rate, population size, and others play critical roles in balancing exploration and exploitation
+## Pointer Network
+Pointer Networks are a type of neural network architecture designed to solve combinatorial optimization problems where the output is a sequence of discrete elements, such as nodes in a graph.
+Unlike traditional models, Pointer Networks generate output sequences by directly "pointing" to elements of the input, making them well-suited for problems like the Traveling Salesman Problem (TSP), where the goal is to find an optimal ordering of cities.
+In future work, this project aims to study how Pointer Networks can learn heuristics for TSP and compare their performance to classical algorithms like Genetic Algorithms.
+![image](https://github.com/user-attachments/assets/c0aa6eaa-dc46-4ff4-a578-3bbc05c19267)
 ## Source
 https://binaryterms.com/genetic-algorithm-in-data-mining.html
